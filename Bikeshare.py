@@ -14,6 +14,7 @@ MONTH_LIST=['all','january','february','march','april'
 DAY_LIST=['all','monday','tuesday','wednesday','thursday'
           ,'friday','saturday','sunday']
 
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
